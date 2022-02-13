@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "ECMAScript course notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losthakkun/School-ECMAScript.git"
+  },
+  "author": "Alex Núñez (losthakkun@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/losthakkun/School-ECMAScript/issues"
+  },
+  "homepage": "https://github.com/losthakkun/School-ECMAScript#readme"
+}
